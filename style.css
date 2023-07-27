@@ -1,0 +1,35 @@
+h1{
+    border-style: solid dotted dashed ridge;
+    border-width: 5px 10px 15px 20px;
+    border-color:red blue yellow green;
+}
+.class1{
+    color:red;
+}
+p{
+    
+    color:gray;
+
+}
+.class1{
+    background-image: url("Mahindra-Thar-1.jpg");
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background position: left top;
+    height: 1000px;
+    width: 2000%;
+}
+.class1 h1{
+    color: blueviolet;
+}
+.class1 #pfirst{
+    color:cyan;
+    background-color: brown;
+}
+
+/*small image diye .class1{
+    background-image: url("Mahindra-Thar-1.jpg");
+     background-repeat: no-repeat;
+    height: 1000px;
+    width: 2000%;
+} x axes ba y access jekhanei repeat korbo repeat xy evabe declare korbo.*/
